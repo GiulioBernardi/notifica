@@ -11,7 +11,7 @@ So I used it as inspiration to think in my own logic.
 The diagram itself was made in portuguese, but it explains the following order of processing:
 
 1. First of all, the script go to the directory that the excel files is stored and then copy to a local file;
-2. By using <pre><code>shutil.copy2</code></pre> function from [shutil lib](https://docs.python.org/3/library/shutil.html#shutil.copy2), LeI'm able to use the metadata of the copied files;
+2. By using <pre><code>shutil.copy2</code></pre> function from [shutil lib](https://docs.python.org/3/library/shutil.html#shutil.copy2), I'm able to use the metadata of the copied files;
 3. Store the last modified date of both files;
 4. Compare de dates;
 5. If there is an update, an e-mail will be send.
