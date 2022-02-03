@@ -6,7 +6,7 @@ I googled some way to solve this problem and I found [this tutorial](https://ton
 
 So I used it as inspiration to think in my own logic.
 
-![Flow Diagram](https://github.com/GiulioBernardi/fotos/blob/master/Notifica_metodo1.drawio.png)
+![Flow Diagram](https://github.com/GiulioBernardi/fotos/blob/master/Notifica_method1.drawio.png)
 
 The diagram itself was made in portuguese, but it explains the following order of processing:
 
